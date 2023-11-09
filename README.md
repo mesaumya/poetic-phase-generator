@@ -1,4 +1,4 @@
-# co6d6447980497dd5775ab78d
+# Poetic Phase Generator
 
 Quick start:
 
